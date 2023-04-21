@@ -10,4 +10,4 @@
 - 📫 How to reach me: minklim47@gmail.com or Discord: MuggleMink#1696
 - ⚡ Fun fact: haha
 
-I'm also interested in game dev and frontend dev 😀
+Currently learning React :)
