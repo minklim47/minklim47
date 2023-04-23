@@ -11,7 +11,6 @@
 - ⚡ Fun fact: haha
 
 Currently learning React :)
-
-![image](https://user-images.githubusercontent.com/83345019/233833399-45f01fed-4d4c-4673-8eef-d9be65274984.png)
-
-
+![8x3biba98sq51](https://user-images.githubusercontent.com/83345019/233833624-7b96463e-3def-4c3b-aafb-bb047fe78c64.gif)
+![1493916356_Dance 4](https://user-images.githubusercontent.com/83345019/233833625-7e8f5466-e10a-4f98-aafe-5a9046b7c879.gif)
+![0ad9badfa2aa111fa9a87c40a452e84c](https://user-images.githubusercontent.com/83345019/233833617-b802389d-c6f8-48e8-867e-9ac8d5be3bca.gif)
