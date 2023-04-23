@@ -11,3 +11,7 @@
 - ⚡ Fun fact: haha
 
 Currently learning React :)
+
+![image](https://user-images.githubusercontent.com/83345019/233833399-45f01fed-4d4c-4673-8eef-d9be65274984.png)
+
+
