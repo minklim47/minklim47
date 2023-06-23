@@ -7,8 +7,9 @@
 - 👯 I’m looking to collaborate on crimes.
 - 🤔 I’m looking for help with my mental health.
 - 💬 Ask me about anything but my code.
-- 📫 How to reach me: minklim47@gmail.com or Discord: MuggleMink#1696
+- 📫 How to reach me: minklim47@gmail.com or Discord: minklim47
 ---
+<h3 align="center" >Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,react,express,c,java" />
