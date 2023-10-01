@@ -1,6 +1,6 @@
 ## Hello World 🌏🌈
 
-#### A 1st year computer science student at SIT@KMUTT
+#### A computer science student at SIT@KMUTT
 
 - 🔭 I’m currently working on a spotify playlist.
 - 🌱 I’m currently learning how to learn.
