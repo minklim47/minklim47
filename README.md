@@ -2,11 +2,9 @@
 
 #### A computer science student at SIT@KMUTT
 
-- 🔭 I’m currently working on a spotify playlist.
-- 🌱 I’m currently learning how to learn.
-- 👯 I’m looking to collaborate on crimes.
-- 🤔 I’m looking for help with my mental health.
-- 💬 Ask me about anything but my code.
+- 🔭 I’m currently working on personal projects.
+- 🌱 I’m currently learning full-stack development.
+- 👯 I’m looking for a working opportunity.
 - 📫 How to reach me: minklim47@gmail.com or Discord: minklim47
 ---
 <h3 align="center" >Tech Stack</h3>
