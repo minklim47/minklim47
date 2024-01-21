@@ -1,10 +1,19 @@
 ## Hello World 🌏🌈
 
-#### A computer science student at SIT@KMUTT
+Hello, My name is Chanakarn Limprasertsiri, you can call me Mink. I'm a computer science student at SIT KMUTT. Welcome to my Github!
+
+### Personal project:
+
+#### TicketLog: Web application to keep your digital movie tickets with note
+
+  github repo: https://github.com/minklim47/TicketLog
+  
+  demo video: https://www.youtube.com/watch?v=rYUtgQgIk6Y&feature=youtu.be
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning full-stack development.
-- 👯 I’m looking for a working opportunity.
+- 🌱 I’m currently learning new tools and technologies.
+- 👯 I’m looking for intern opportunities.
+- 🕹️ I'm interested in game development.
 - 📫 How to reach me: minklim47@gmail.com or Discord: minklim47
 ---
 <h3 align="center" >Tech Stack</h3>
@@ -13,11 +22,3 @@
     <img src="https://skillicons.dev/icons?i=css,html,js,react,express,c,java" />
   </a>
 </p>
-
----
-  
-![0ad9badfa2aa111fa9a87c40a452e84c](https://user-images.githubusercontent.com/83345019/233833617-b802389d-c6f8-48e8-867e-9ac8d5be3bca.gif)
-![1493916356_Dance 4](https://user-images.githubusercontent.com/83345019/233833625-7e8f5466-e10a-4f98-aafe-5a9046b7c879.gif)
-![0ad9badfa2aa111fa9a87c40a452e84c](https://user-images.githubusercontent.com/83345019/233833617-b802389d-c6f8-48e8-867e-9ac8d5be3bca.gif)
-  
-Look at these moves!
