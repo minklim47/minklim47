@@ -1,17 +1,13 @@
 ## Hello World 🌏🌈
 
-Hello, My name is Chanakarn Limprasertsiri, you can call me Mink. I'm a second year computer science student at SIT KMUTT. Welcome to my Github!
-
-- 🦾 I have worked on multiple full-stack web application projects using React.
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking for internship opportunities in full-stack developer roles.
-- 🚀 I'm aiming to learn game dev, devops, security.
-- 📫 How to reach me: minklim47@gmail.com or Discord: minklim47
+Hello, My name is Chanakarn Limprasertsiri, you can call me Mink. I'm a third-year computer science student at SIT KMUTT. Welcome to my GitHub!
+ 
+- 📫 How to reach me: minklim47@gmail.com
 ---
 <h3 align="center" >Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,css,html,js,react,nodejs,express,typescript,prisma,mysql,figma" />
+    <img src="https://skillicons.dev/icons?i=c,java,css,html,js,react,nodejs,express,typescript,prisma,mysql,figma,flutter" />
   </a>
 <br/>
 <br/>
