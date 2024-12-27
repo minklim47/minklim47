@@ -7,7 +7,7 @@ Hello, My name is Chanakarn Limprasertsiri, you can call me Mink. I'm a third-ye
 <h3 align="center" >Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,css,html,js,react,nodejs,express,typescript,prisma,mysql,figma,flutter" />
+    <img src="https://skillicons.dev/icons?i=c,java,css,html,js,react,nodejs,express,typescript,prisma,mysql,figma,flutter,go" />
   </a>
 <br/>
 <br/>
